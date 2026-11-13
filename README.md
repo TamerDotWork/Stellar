@@ -1,0 +1,1 @@
+Stellar is platform that allows users to create and manage custom knowldge bases
